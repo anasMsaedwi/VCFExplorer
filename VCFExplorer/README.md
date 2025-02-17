@@ -27,8 +27,8 @@ This Python script analyzes VCF (Variant Call Format) files and generates statis
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/P_vcf.git
-    cd P_vcf
+    git clone https://github.com/anasMsaedwi/VCFExplorer.git
+    cd VCFExplorer
     ```
 
 2. Install the required packages:
